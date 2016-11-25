@@ -1,0 +1,5 @@
+To list the names of matching files
+grep -l <pattern> <path>
+grep -lr <pattern> <path>  => recursive
+
+================================================================
