@@ -6,6 +6,6 @@ The syntax for replacing every occurrence of a string in the entire text is
 :%s/pattern/replace/
 
 nth occurrence
-n/word
+n/pattern
 :s/pattern/replace/
 
