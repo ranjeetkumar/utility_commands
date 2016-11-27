@@ -1,0 +1,11 @@
+The syntax for replacing one string with another string in the current line is
+
+:s/pattern/replace/
+
+The syntax for replacing every occurrence of a string in the entire text is 
+:%s/pattern/replace/
+
+nth occurrence
+n/word
+:s/pattern/replace/
+
